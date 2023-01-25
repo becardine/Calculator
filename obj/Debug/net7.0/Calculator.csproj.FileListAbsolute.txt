@@ -1,0 +1,15 @@
+E:\curso-balta-io\Calculator\bin\Debug\net7.0\Calculator.exe
+E:\curso-balta-io\Calculator\bin\Debug\net7.0\Calculator.deps.json
+E:\curso-balta-io\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+E:\curso-balta-io\Calculator\bin\Debug\net7.0\Calculator.dll
+E:\curso-balta-io\Calculator\bin\Debug\net7.0\Calculator.pdb
+E:\curso-balta-io\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+E:\curso-balta-io\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\curso-balta-io\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+E:\curso-balta-io\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+E:\curso-balta-io\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+E:\curso-balta-io\Calculator\obj\Debug\net7.0\Calculator.dll
+E:\curso-balta-io\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+E:\curso-balta-io\Calculator\obj\Debug\net7.0\Calculator.pdb
+E:\curso-balta-io\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+E:\curso-balta-io\Calculator\obj\Debug\net7.0\ref\Calculator.dll
